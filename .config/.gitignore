@@ -1,0 +1,13 @@
+# Ignora todo
+/*
+!.gitignore
+
+# Excepto...
+!alacritty
+!fish
+!htop
+!rofi
+!ranger
+!qtile
+!bspwm
+!bat

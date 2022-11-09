@@ -1,0 +1,6 @@
+# Excluye todo
+/*
+!.gitignore
+
+# Excepto
+!bin

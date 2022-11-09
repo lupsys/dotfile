@@ -1,0 +1,10 @@
+# Ignora todo
+/*
+!.gitignore
+
+# Excepciones a ignorar
+!.config
+!.zshrc
+!.p10k.zsh
+!.local
+!.bashrc
